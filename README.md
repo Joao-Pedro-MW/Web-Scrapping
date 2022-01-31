@@ -1,3 +1,2 @@
-# Web_Scrap
-Projeto de web_scrapping com python <br><br>
-!!!Projeto em construção!!!
+# Web Scrapping com python
+* Acessado o site e feita uma análise das informações do mesmo e depois uma "estilização" da mesma
